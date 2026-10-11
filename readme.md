@@ -125,6 +125,7 @@
 
 ## Sights
 
+- [Discover Alone](https://discoveralone.com/) - Explore historic and overlooked places around Ireland and Britain on a nearby map.
 - [UNESCO World Heritage](https://whc.unesco.org/en/interactive-map/) - Map of UNESCO World Heritage sites.
 - [OpenTripMap](https://opentripmap.com/) - Map service for sightseeing and travel planning.
 - [Wikimapia](https://wikimapia.org/) - Editable map of marked places.
